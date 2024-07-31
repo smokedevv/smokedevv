@@ -10,9 +10,7 @@
 
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smokedevv&count_private=true&show_icons=true&hide=contribs)  
-![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/4-productive-time.svg)
-![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/1-repos-per-language.svg)  
-![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/0-profile-details.svg)  
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smokedevv/smokedevv/output/github-contribution-grid-snake-dark.svg">
