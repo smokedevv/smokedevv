@@ -4,18 +4,12 @@
 <br>
 <p>
   <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
-  <a href="https://www.typescriptlang.org"> <img height="36" width="36" src="/icons/typescript.svg" alt="nodejs" /> </a>
-  <a href="https://www.docker.com"> <img height="36" width="36" src="/icons/docker.svg" alt="docker" /> </a>
-  <a href="https://freebsd.org"> <img height="36" width="36" src="/icons/freebsd.svg" alt="freebsd" /> </a>
-  <a href="https://www.truenas.com"> <img height="36" width="36" src="/icons/truenas.svg" alt="truenas" /> </a>
-  <a href="https://rockylinux.org/"> <img height="36" width="36" src="/icons/rockylinux.svg" alt="rockylinux" /> </a>
-  <a href=""> <img height="36" width="36" src="/icons/linux.svg" alt="linux" /> </a>
+  <a href="https://www.python.org/"> <img height="36" width="36" src="/icons/python.svg" alt="nodejs" /> </a>
 </p>
 <br>
 
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hmes98318&count_private=true&show_icons=true&hide=contribs)  
-<!--![](https://github-readme-stats.vercel.app/api?username=hmes98318&count_private=true&show_icons=true&hide=contribs)  -->
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smokedevv&count_private=true&show_icons=true&hide=contribs)  
 ![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/4-productive-time.svg)
 ![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/1-repos-per-language.svg)  
 ![](https://raw.githubusercontent.com/smokedevv/smokedevv/main/profile-summary-card-output/github/0-profile-details.svg)  
