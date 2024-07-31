@@ -4,7 +4,7 @@
 <br>
 <p>
   <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
-  <a href="https://www.python.org/"> <img height="36" width="36" src="/icons/Python.svg" alt="python" /> </a>
+  <a href="https://www.python.org/"> <img height="36" width="36" src="/icons/python.svg" alt="python" /> </a>
 </p>
 <br>
 
