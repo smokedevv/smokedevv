@@ -18,7 +18,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=smokedevv&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=smokedevv&langs_count=20&layout=compact&theme=dark&locale=en" alt="Top Langs"/>
+<img src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=smokedevv&langs_count=5&layout=compact&theme=dark&locale=en" alt="Top Langs"/>
 
 ---
 
