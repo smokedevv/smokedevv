@@ -4,7 +4,7 @@
 <br>
 <p>
   <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
-  <a href="https://www.python.org/"> <img height="36" width="36" src="/icons/python.svg" alt="python" /> </a>
+  <a href="https://www.python.org/"> <img height="36" width="36" src="https://www.svgrepo.com/show/452091/python.svg" alt="python" /> </a>
 </p>
 <br>
 
@@ -21,18 +21,3 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smokedevv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="smokedevv" /> </p>
-
-<!--
-**smokedevv/smokedevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
