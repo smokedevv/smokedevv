@@ -1,23 +1,28 @@
 ## Hi 👋, I'm smokedevv
 
+---
 
-<br>
-<p>
-  <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
-  <a href="https://www.python.org/"> <img height="36" width="36" src="https://www.svgrepo.com/show/452091/python.svg" alt="python" /> </a>
-</p>
-<br>
+### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smokedevv&count_private=true&show_icons=true&hide=contribs)  
+---
 
+### :fire: My Stats :
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smokedevv/smokedevv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smokedevv/smokedevv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smokedevv/smokedevv/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=smokedevv&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smokedevv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smokedevv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="smokedevv" /> </p>
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
